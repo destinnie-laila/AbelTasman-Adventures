@@ -5,7 +5,7 @@
       <File FileName="Assets/Scripts/GameModel/GameModel.cs" />
       <File FileName="Assets/Scripts/Controller/PasswordRegController.cs" />
       <File FileName="Assets/Scripts/GameModel/Player.cs" Line="31" Column="6" />
-      <File FileName="Assets/Scripts/Controller/CommandProcessor.cs" Line="97" Column="81" />
+      <File FileName="Assets/Scripts/Controller/CommandProcessor.cs" Line="97" Column="28" />
       <File FileName="Assets/Scripts/GameModel/Data Services/SQLite.cs" />
     </Files>
     <Pads>

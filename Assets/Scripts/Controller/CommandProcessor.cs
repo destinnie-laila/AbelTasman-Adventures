@@ -94,7 +94,7 @@ public class CommandProcessor
                             else
                             {
                                 GameModel.currentLocale = nextLocale;
-                                GameModel.currentPlayer.LocationID = nextLocale.Id;
+                           
                                 GameModel.currentPlayer.changeLocale(nextLocale);
                                 strResult = GameModel.currentLocale.Name + " " + GameModel.currentLocale.Story;
                             }
@@ -119,7 +119,7 @@ public class CommandProcessor
 
                             {
                                 GameModel.currentLocale = nextLocale;
-                                GameModel.currentPlayer.LocationID = nextLocale.Id;
+                              
                                 GameModel.currentPlayer.changeLocale(nextLocale);
                                 strResult = GameModel.currentLocale.Name + " " + GameModel.currentLocale.Story;
                             }
