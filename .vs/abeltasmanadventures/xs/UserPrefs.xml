@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{76252C8A-E81C-88C2-8CB5-F672B6E48286}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/CommandProcessor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameModel/Location.cs" Line="46" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameModel/GameModel.cs" />
+      <File FileName="Assets/Scripts/Controller/PasswordRegController.cs" />
+      <File FileName="Assets/Scripts/GameModel/Player.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/Controller/CommandProcessor.cs" Line="97" Column="81" />
+      <File FileName="Assets/Scripts/GameModel/Data Services/SQLite.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="abeltasmanadventures" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Controller" expanded="True">
+                  <Node name="CommandProcessor.cs" selected="True" />
+                </Node>
+                <Node name="GameModel" expanded="True">
+                  <Node name="Data Services" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f328fa76-a873-40a5-a836-84d245c0f827" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/destinnielaila/Desktop/SDV602/project/abeltasmanadventures/Assets/testbutton.cs" relfile="Assets/testbutton.cs" line="9" column="1" />
+      <Breakpoint file="/Users/destinnielaila/Desktop/SDV602/project/abeltasmanadventures/Assets/Scripts/Controller/TextInput.cs" relfile="Assets/Scripts/Controller/TextInput.cs" line="20" column="1" />
+      <Breakpoint file="/Users/destinnielaila/Desktop/SDV602/project/abeltasmanadventures/Assets/Scripts/GameModel/Data Services/DataServices.cs" relfile="Assets/Scripts/GameModel/Data Services/DataServices.cs" line="163" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

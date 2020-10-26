@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{56527272-5231-591E-ACB8-51663A61F714}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity.2D.Sprite.Editor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Free Asset - 2D Handcrafted Art copy" expanded="True">
+                <Node name="Sprite" expanded="True">
+                  <Node name="Alg1" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity.2D.Sprite.Editor" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Unity.2D.Sprite.Editor PreferredExecutionTarget="e567bd42-c7fb-4525-8565-b326d00522c9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
